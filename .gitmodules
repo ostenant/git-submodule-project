@@ -1,0 +1,6 @@
+[submodule "git-first-submodule"]
+	path = git-first-submodule
+	url = https://github.com/ostenant/git-first-submodule.git
+[submodule "git-second-submodule"]
+	path = git-second-submodule
+	url = https://github.com/ostenant/git-second-submodule.git
